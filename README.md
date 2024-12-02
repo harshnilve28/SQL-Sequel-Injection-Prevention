@@ -30,7 +30,7 @@ The primary objective of this project is to safeguard sensitive data and protect
 - PHP 7.0 or higher
 - MySQL database
 
-## **AWS Deploymen**
+## **AWS Deployment**
 This project is deployed on AWS to demonstrate secure and scalable web hosting.
 
 ### **Steps to Deploy on AWS:**
