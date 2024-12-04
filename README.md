@@ -30,6 +30,24 @@ The primary objective of this project is to safeguard sensitive data and protect
 - PHP 7.0 or higher
 - MySQL database
 
+---
+
+## **Screenshots**
+
+### **Login Page**
+![Login Page](path/to/login-page-image.png)
+
+### **Post-Login Page (Student Data)**
+![Post-Login Page](path/to/post-login-page-image.png)
+
+### **MySQL Database Setup**
+![MySQL Database](path/to/mysql-database-image.png)
+
+### **AWS Instance**
+![AWS Instance](path/to/aws-instance-image.png)
+
+---
+
 ## **AWS Deployment**
 This project is deployed on AWS to demonstrate secure and scalable web hosting.
 
@@ -40,3 +58,12 @@ This project is deployed on AWS to demonstrate secure and scalable web hosting.
 4. **Configure** security groups to allow HTTP and SSH access.  
 5. **Deploy** the project files to the EC2 instance.  
 6. **Test** the system for accessibility and SQL injection prevention.
+
+---
+
+## **Conclusion**
+By implementing secure coding practices such as hashing, sanitization, validation, and prepared statements, this project demonstrates the effectiveness of mitigating SQL injection attacks. Deployment on AWS ensures scalability and reliability for real-world use.
+
+---
+
+**Note:** Replace `path/to/your-image.png` with the actual paths or URLs of your images.
