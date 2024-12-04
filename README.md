@@ -45,9 +45,9 @@ The primary objective of this project is to safeguard sensitive data and protect
 
 ### **AWS Instance**
 ![AWS Instance](images/AWSinstance.png)
-**Services used**
+### **Services used**
 ![Services used](images/Servicesused.png)
-**Using IP to access form**
+### **Using IP to access form**
 ![Using IP to access form -AWS](images/ip_to_accesform.png)
 
 ---
