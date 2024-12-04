@@ -5,9 +5,9 @@ error_reporting(E_ALL);
 
 // Database connection
 $servername = "localhost";
-$username = "root";
-$password = "harsh";
-$dbname = "user_auth";
+$username = "root"; #mysql username
+$password = ""; #mysql password
+$dbname = ""; #Database name
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
