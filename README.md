@@ -38,14 +38,16 @@ The primary objective of this project is to safeguard sensitive data and protect
 ![Login Page](images/form.png)
 
 ### **Post-Login Page (Student Data)**
-![Post-Login Page](images/form.png)
+![Post-Login Page](images/Page2.png)
 
 ### **MySQL Database Setup**
 ![MySQL Database](images/db.png)
 
 ### **AWS Instance**
 ![AWS Instance](images/AWSinstance.png)
+**Services used**
 ![Services used](images/Servicesused.png)
+**Using IP to access form**
 ![Using IP to access form -AWS](images/ip_to_accesform.png)
 
 ---
