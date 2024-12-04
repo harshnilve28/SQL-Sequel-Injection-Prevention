@@ -39,8 +39,7 @@
         <p>You have successfully logged in.</p>
         <h2>Student Details:</h2>
         <p><strong>Name:</strong> Harsh Nilve</p>
-        <p><strong>URN:</strong> 2022-B-28112004D</p>
-        <p><strong>Subject:</strong> Information Security Application Assignment</p>
+        <p><strong>Roll no:</strong> 2121</p>
     </div>
 </body>
 </html>
