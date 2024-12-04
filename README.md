@@ -35,7 +35,7 @@ The primary objective of this project is to safeguard sensitive data and protect
 ## **Screenshots**
 
 ### **Login Page**
-![Login Page](path/to/login-page-image.png)
+![Login Page](images/form.png)
 
 ### **Post-Login Page (Student Data)**
 ![Post-Login Page](path/to/post-login-page-image.png)
